@@ -23,3 +23,5 @@ Authentication: JWT, Bcrypt
 This app helps users take and manage notes easily with cloud storage and secure access.
 It’s a simple and efficient tool for students and professionals alike.
 
+![screenshot](https://github.com/SharanyaNaik2005/Online-notes-application-/blob/main/IMG-20251025-WA0000.jpg)
+![screenshot]
